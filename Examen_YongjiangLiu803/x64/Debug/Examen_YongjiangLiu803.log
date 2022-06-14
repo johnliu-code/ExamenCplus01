@@ -1,0 +1,11 @@
+﻿  Examen_YongjiangLiu803.cpp
+C:\Users\atdig\source\repos\Examen_YongjiangLiu803\Examen_YongjiangLiu803\Examen_YongjiangLiu803.cpp(153,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\atdig\source\repos\Examen_YongjiangLiu803\Examen_YongjiangLiu803\Examen_YongjiangLiu803.cpp(161,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\atdig\source\repos\Examen_YongjiangLiu803\Examen_YongjiangLiu803\Examen_YongjiangLiu803.cpp(249,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\atdig\source\repos\Examen_YongjiangLiu803\Examen_YongjiangLiu803\Examen_YongjiangLiu803.cpp(252,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\atdig\source\repos\Examen_YongjiangLiu803\Examen_YongjiangLiu803\Examen_YongjiangLiu803.cpp(212,14): warning C4101: 'immeuble1': unreferenced local variable
+C:\Users\atdig\source\repos\Examen_YongjiangLiu803\Examen_YongjiangLiu803\Examen_YongjiangLiu803.cpp(213,14): warning C4101: 'immeuble2': unreferenced local variable
+C:\Users\atdig\source\repos\Examen_YongjiangLiu803\Examen_YongjiangLiu803\Examen_YongjiangLiu803.cpp(215,14): warning C4101: 'immeuble4': unreferenced local variable
+C:\Users\atdig\source\repos\Examen_YongjiangLiu803\Examen_YongjiangLiu803\Examen_YongjiangLiu803.cpp(214,14): warning C4101: 'immeuble3': unreferenced local variable
+C:\Users\atdig\source\repos\Examen_YongjiangLiu803\Examen_YongjiangLiu803\Examen_YongjiangLiu803.cpp(216,14): warning C4101: 'immeuble5': unreferenced local variable
+  Examen_YongjiangLiu803.vcxproj -> C:\Users\atdig\source\repos\Examen_YongjiangLiu803\x64\Debug\Examen_YongjiangLiu803.exe
